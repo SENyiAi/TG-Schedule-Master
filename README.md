@@ -51,3 +51,6 @@
 脚本将自动接管操作。你会看到文字自动输入、日历自动弹出、日期自动被点击。
 
 注意：执行期间请勿切换标签页或最小化浏览器，以免影响定时器的准确性。
+
+<img width="489" height="265" alt="{76D9F918-740F-4490-83EF-D286DE6A8E27}" src="https://github.com/user-attachments/assets/c2f04a56-3923-4aa1-9e6a-c8201eedcf12" />
+
